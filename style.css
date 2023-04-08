@@ -1,0 +1,41 @@
+.Heading1,
+.Heading2
+.Heading3
+.Heading4 {
+    font-weight: 600;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.Heading1 {
+    color: yellow;
+    background-color: blue;
+    font-size: large;
+    font-weight: 800;
+    text-align: center;
+}
+
+
+.Heading2 {
+    background-color: bisque;
+    font-size: medium;
+    text-align: center;
+    display: inline-block;
+   
+}
+
+.Heading3 {
+    background-color: bisque;
+    text-align: center;
+    display: inline-block;
+    margin: 0 400px;
+    
+      
+}
+
+.Heading4 {
+    background-color: coral;
+
+}
