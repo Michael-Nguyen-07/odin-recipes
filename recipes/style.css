@@ -1,0 +1,36 @@
+h1 {
+    font-weight: 800;
+    text-align: center;
+    background-color: aqua;
+}
+
+#center-image {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    color: darkblue;
+}
+.recipe {
+    text-align: center;
+    font-weight: 800;
+}
+.ingredients {
+    font-weight: 500;
+    color: darkgreen;
+
+}
+h3 {
+    color: darkred;
+    background-color: blueviolet;
+}
+
+h4 {
+    background-color: green;
+    color: blue;
+}
+.Instructions {
+    color: chocolate;
+    text-align: right;
+}
