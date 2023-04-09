@@ -1,0 +1,40 @@
+h1 {
+    background-color: aquamarine;
+    color: green;
+    font-weight: 900;
+    text-align: center;
+}
+
+
+#right-image {
+    float: right;
+
+}
+p {
+    color: red;
+    font-weight: 400;
+    font-size: medium;
+}
+
+h2 {
+    text-align: center;
+    color: violet;
+    font-weight: 600;
+}
+
+.Ingredients {
+    text-align: right;
+    color: blueviolet;
+
+}
+h3 {
+    text-align: center;
+    background-color: yellow;
+    color: darkmagenta;
+    font-weight: 800;
+}
+.Instructions {
+    color: darkred;
+    font-size: large;
+    font-weight: 800;
+}
